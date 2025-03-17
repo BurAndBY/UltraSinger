@@ -531,8 +531,6 @@ tensorboard-plugin-wit==1.8.1
     # via tensorboard
 tensorboardx==2.6
     # via pyannote-audio
-tensorflow==2.10.0
-    # via -r requirements.in
 tensorflow-estimator==2.10.0
     # via tensorflow
 tensorflow-io-gcs-filesystem==0.31.0
