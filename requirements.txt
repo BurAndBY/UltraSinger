@@ -66,10 +66,6 @@ contourpy==1.2.1
     # via matplotlib
 crepe==0.0.16
     # via -r requirements.in
-ctranslate2==4.4.0
-    # via
-    #   faster-whisper
-    #   whisperx
 cycler==0.12.1
     # via matplotlib
 dataclasses==0.6
